@@ -1,0 +1,13 @@
+body{
+    background-color: black;
+}
+#di{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+    border: 2px solid black;
+}
